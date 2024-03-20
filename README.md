@@ -4,7 +4,7 @@
 
 **Here are examples of simple programs in C#:**
 1. LibraryOfBooks - is a program that allows you to add, search and delete books from the library. The book has an index, author, title and year of publication, for each parameter you can search or display all available books. Initially, there are no books in the library.
-2. PlayersBas is a database of players. Each player has: a username, a unique number, a level and information about the bathhouse. You can add players, the ability to ban and unban by number and remove a player from the database is implemented. The database is not used in this code.
+2. PlayersBas - is a database of players. Each player has: a username, a unique number, a level and information about the bathhouse. You can add players, the ability to ban and unban by number and remove a player from the database is implemented. The database is not used in this code.
 3. MiniShop - There is a player with inventory, there is a seller with goods, the purchase of goods from the seller is realized.
 
 **RU**
